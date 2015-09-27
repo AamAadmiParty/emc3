@@ -1,0 +1,77 @@
+		#countdown {
+			width: 185px;
+			text-align:center;
+			background:#2D6C94;
+			float:left;
+			color:#fff;
+			margin:7px 7px 0 70px;
+			padding:6px 0;
+		}
+		
+		#countdown #time {
+			padding:5px 0px 5px 5px; margin:0; width:auto;
+		}
+		 
+		#countdown .cd-time {
+			width: 40px; 
+			float: left;
+			font-size: 12px;
+			color: white;
+			margin-right: 3px;
+		}
+		
+		#countdown .stamp {
+			width: 40px;
+			float: left;
+			text-align: center;
+			font-size: 18px;
+			color: #8d8d8d;
+			font-family:open sans;
+			font-weight:600;
+			background:#fff;
+			background-repeat: no-repeat;
+			min-height: 20px;
+			margin:0 2px;
+			padding-top: 5px;
+			position: relative;
+		}
+		#countdown .launching {
+			font-size:13px; font-weight:bold; color:#fff; text-align:center;font-family:open sans;  line-height:10px;
+		}
+	 
+		#countdown .right {
+			margin-right: 0px;	
+		}
+		
+		#countdown .stamp div.cover {
+			width: 100px;
+			float: left;
+			text-align: center;
+			font-size: 18px;
+			margin-top: 15px;
+			color: white;
+			position: absolute;
+			z-index: 99;
+		}
+		#countdown .cd-time {
+			width: 40px;
+			float: left;
+			font-size: 10px;
+			color: #000; text-align:center;
+			background:#FCC03D;
+			margin:0 2px;
+			min-height:15px;
+			position:relative;
+			top:5px;
+			z-index:999;
+			
+		}
+		#countdown #time .complete {
+			color: white;	
+			text-align: center;
+			width: 350px;
+			margin-left: 25px;
+			font-size: 15px;
+			float: left;
+			margin-top: 20px;
+		}		

@@ -1,0 +1,364 @@
+@charset "utf-8";
+/* CSS Document */
+form
+{
+margin:0; padding:0;	
+	}
+.amdheader {
+	width:100%;
+	height:78px;
+	background:url(../images/top-amdami-from-header.png) repeat-x;
+}
+#header-inner a.home{display:inline-block;margin-top:10px;float:left;margin-right:10px;}
+.logo {
+	width:1000px;
+	height:40px;
+	background:url(../images/call-cotizen-img.png) no-repeat 0% 80%;
+	margin:auto;
+	padding-top:10px;
+}
+.conatinetr-1 h2, .hea {
+	color:#fd7100;
+	font-weight:normal;
+	font-size:24px;
+	line-height:26px;
+	margin:0px 10px 10px 20px;
+	padding: 20px 0;
+	clear:left;
+	overflow:hidden;
+}
+.bg-grey {
+	background-color:#f6f6f6;
+}
+.inner-block {
+	max-width:930px;
+	margin:15px auto 15px;
+	clear:left;
+}
+.tabc {
+	text-align:left;
+}
+.span-1 {
+	display:block;
+	margin-bottom:5px;
+}
+.span-2 {
+	padding:10px;
+	float:left;
+}
+.vol {
+	margin:10px 0;
+	float:left;
+}
+.block-mini-4 .bn{margin-left:10px;}
+.block-mini-3 {
+	float:left;
+}
+.but{border-right:1px solid #e0e0e0;clear:left;overflow:hidden;display:inline-block;}
+.bn{border:none;}
+
+.get-connect-conatiner {
+	margin:0 auto;
+	max-width:950px;
+	clear:left;
+	overflow:hidden;
+	font-size:18px;
+}
+.getcont, .block-mini-2 {
+	padding:25px 33px;
+	float:left;
+	margin-right:5px;
+	min-height:88px;
+}
+ .block-mini-2 {
+	padding:20px 30px 15px;
+ }
+
+.cont,.leftformbt {
+	background:#ab172b;
+	display:inline-block;
+	padding:9px 35px;
+	border-left:none;
+	border-right:none;
+	border-top:none;
+	cursor:pointer;
+	border-bottom:5px solid #7f0617;
+	color:#fff;
+	border-radius: 3px;
+	font-size:18px;
+	font-family:open sans;
+	
+}
+.leftformbt{padding:10px 25px;}
+.vid {
+	background:#e2e2e2;
+	display:inline-block;
+	border-bottom:5px solid #797979;
+	color:#060606;
+	font-size:18px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 3px;
+	padding: 12px 45px;
+}
+.container-3 {
+	width:936px;
+	height:auto;
+	float:left;
+}
+.container-3 ul {
+	margin:0px;
+	padding:0px;
+}
+.tabc th {
+	font-weight:bold;
+	color:#fd7100;
+	font-size:14px; line-height:22px;
+}
+.tabc td
+{
+font-weight:bold;	
+	}
+.container-4 {
+	width:960px;
+	height:auto;
+	float:left;
+	text-align:center;
+}
+.container-4 .one ul {
+	margin:0px;
+	padding:0px;
+}
+.container-3 .one ul li {
+	margin:0px;
+	padding:0px;
+	float:left;
+	list-style:none;
+	margin:10px 10px 10px 35px;
+	color:#fd7100;
+	font-size:14px;
+}
+.container-4 .two {
+	width:200px;
+	height:auto;
+	float:right;
+}
+.container-4 .two ul {
+	margin:0px;
+	padding:0px;
+}
+.container-4.two ul li {
+	margin:0px;
+	padding:0px;
+	float:left;
+	list-style:none;
+	color:#fd7100;
+	font-size:14px;
+}
+.sep {
+	width:950px;
+	height:2px;
+	float:left;
+	background-color:#e7e7e8;
+	margin-left:10px;
+	margin-top:20px;
+}
+.checklist {
+	width:450px;
+	margin:20px auto;
+	background-color:#f6f6f6;
+	padding:15px 25px;
+	border-radius: 3px;
+	}
+.checklist .head {
+	font-size:14px;
+	padding-left:20px;
+	font-weight:400;
+	color:#000000;
+}
+.checklist .raid {
+	padding-left:15px;
+}
+.checklist h3 {
+	width:400px;
+	height:auto;
+	float:left;
+	background-color:#f6f6f6;
+	padding-left:20px;
+}
+.volunter {
+	background:url(../images/volunter.png) no-repeat scroll 10%50%;
+	width:40px;
+	height:41px;
+}
+.volunter p, .report p {
+	font-size:14px;
+	color:#000;
+	padding-left:60px;
+	margin:10px 5px;
+}
+.report {
+	background:url(../images/report.png) no-repeat scroll 10%50%;
+	width:40px;
+	height:41px;
+}
+.totbg {
+	background-color:#f6f6f6;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+.refercontainer {
+	width:880px;
+	background:#45c8ff;
+	padding:20px 30px;
+	margin:0 auto;
+	clear:left;
+	border-radius:5px;
+}
+.referhead {
+	font-size:18px;
+	padding:10px 50px;
+	font-weight:600;
+	color:#014169;
+	background:url(../images/referfriend.png) no-repeat scroll 12px 7px	;
+}
+.referfont {
+	font-size:14px;
+	color:#fff;
+	padding-left:20px;
+}
+.text-input {
+	padding-left:20px;
+	margin-left:20px;
+}
+.input.st {
+	width:350px;
+}
+.st {
+	border:none;
+	padding:10px 5px
+}
+.ref {
+	background:#08327e;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	cursor:pointer;
+	display:inline-block;
+	padding:10px 30px 10px 30px;
+	margin-top:5px;
+	border-bottom:5px solid #061a40;
+	color:#fff;
+	font-weight:300;
+	font-family:open sans;
+	text-transform:uppercase;
+	font-size:18px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+}
+.memberselect2 {
+	margin-top:5px; float:right;
+}
+.memberselect21 {
+ float:right; padding:5px 50px 5px 0; 
+}
+
+.memberselect {
+	margin:10px auto;
+}
+.yesbt, .nobt, .undecidebt {
+	background:#3da200;
+	display:inline-block;
+	padding:5px 45px;
+	margin-top:5px;
+	color:#fff;
+	font-size:24px;
+}
+.nobt {
+	background:#ff1a39;
+}
+.totalcontactbt
+{
+	background:#015285;
+ 
+	text-align:center;
+	padding:5px 0px; 
+	margin-top:5px;
+	color:#fff;
+	font-size:20px; border-right:#ffffff 2px solid;	
+	}
+.totalcallbt
+{
+	background:#fcc03d;
+	text-align:center;
+
+	padding:5px 0px; 
+	margin-top:5px;
+	color:#000;
+	font-size:20px;	
+	}	
+.undecidebt {
+	background:#e2e2e2;
+	color:#000;
+}
+.h-t {
+	margin-top:35px;
+	display:inline-block;
+}
+.yesfont, .nofont, .undedidefont, .bluefont {
+	color:#3da200;
+	font-size:16px;
+	text-align:center;
+	font-weight:600;
+}
+.nofont {
+	color:#ff1a39;
+}
+.undedidefont {
+	color:#000;
+}
+.bluefont14 {
+	color:#015285; font-size:14px;
+	text-align:center;
+	font-weight:600;
+}
+.greenfont14 {
+	color:#FF9900; font-size:14px;
+	text-align:center;
+	font-weight:600;
+}
+.personame {
+	padding-left:20px;
+}
+.address {
+	padding-right:22px;
+}
+.con {
+	padding-left:135px;
+}
+.form2 input {
+    
+    padding: 10px;
+    
+}
+.form2{ background: none repeat scroll 0 0 #F6F6F6;
+    margin: 0 auto;
+    padding: 20px 0 40px;
+    width: 430px;}
+.form2 p{ line-height: 30px;
+    margin-left: 28px;}
+.input1{border: medium none;
+    padding: 10px;
+    width: 350px;
+   }
+.block-mini-4{ float: left;
+  padding: 0 30px 0 0;}
+.motivate
+{
+ font-size:14px; padding-top:10px; display:inline-block; 	
+	}
